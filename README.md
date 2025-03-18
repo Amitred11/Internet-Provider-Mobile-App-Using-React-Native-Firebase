@@ -65,38 +65,37 @@ This project is for educational purposes only. All rights reserved by Fibear Net
 ## 1. Install Expo CLI Globally
 First, install Expo CLI globally so you can create and manage Expo projects easily:
 
-sh
-Copy
-Edit
+```sh
 npm install -g expo-cli
+```
 To verify the installation, run:
 
-sh
-Copy
-Edit
+``` sh
 expo --version
+```
 ## 2. Create a New Expo Project
 Now, create your new React Native app with Expo:
 
-sh
-Copy
-Edit
+```sh
 npx create-expo-app MyApp
+```
 Replace "MyApp" with your preferred project name.
 Select the blank template when prompted.
 Navigate into your project folder:
 
-sh
-Copy
-Edit
+```sh
 cd MyApp
+```
 ## 3. Start the Development Server
 Run the Expo development server with:
 
-sh
-Copy
-Edit
+```sh
 npx expo start
+```
+or
+```sh
+npx start
+```
 This opens the Expo Developer Tools in your browser.
 You'll see a QR code and multiple options to run your app.
 
