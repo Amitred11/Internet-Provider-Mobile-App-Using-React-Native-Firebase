@@ -60,7 +60,7 @@ This project is expected to be completed within **7 months**, with the following
 ## License
 This project is for educational purposes only. All rights reserved by Fibear Network Technologies Corp.
 
-##How to create a React-Native App
+## How to create a React-Native App
 
 # 1. Install Expo CLI Globally
 First, install Expo CLI globally so you can create and manage Expo projects easily:
