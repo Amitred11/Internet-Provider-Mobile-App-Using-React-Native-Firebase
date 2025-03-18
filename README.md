@@ -60,3 +60,43 @@ This project is expected to be completed within **7 months**, with the following
 ## License
 This project is for educational purposes only. All rights reserved by Fibear Network Technologies Corp.
 
+##How to create a React-Native App
+
+# 1. Install Expo CLI Globally
+First, install Expo CLI globally so you can create and manage Expo projects easily:
+
+sh
+Copy
+Edit
+npm install -g expo-cli
+To verify the installation, run:
+
+sh
+Copy
+Edit
+expo --version
+# 2. Create a New Expo Project
+Now, create your new React Native app with Expo:
+
+sh
+Copy
+Edit
+npx create-expo-app MyApp
+Replace "MyApp" with your preferred project name.
+Select the blank template when prompted.
+Navigate into your project folder:
+
+sh
+Copy
+Edit
+cd MyApp
+# 3. Start the Development Server
+Run the Expo development server with:
+
+sh
+Copy
+Edit
+npx expo start
+This opens the Expo Developer Tools in your browser.
+You'll see a QR code and multiple options to run your app.
+
